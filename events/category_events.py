@@ -6,6 +6,7 @@ from typing import Dict, Any
 class CategoryCreated:
     category_id: str
     name: str
+    description: str
     is_active: bool
     timestamp: datetime = field(default_factory=datetime.now)
 

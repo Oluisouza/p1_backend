@@ -40,3 +40,11 @@ c1.deactivate()
 print(f"Categoria atualizada: {c1}")
 print_events(c1)
 
+print("\nTentando desativar novamente...")
+c1.deactivate()
+print_events(c1)
+
+print("\nAtivando a categoria...")
+c1.activate()
+print(f"Categoria atualizada: {c1}")
+print_events(c1)
