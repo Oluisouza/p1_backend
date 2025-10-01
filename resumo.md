@@ -14,7 +14,8 @@
 
 ##  Decoradores
 
->   
+>   Função que recebe outra função, ou classe, como argumento, adiciona alguma funcionalidade a ela, e a retorna modificada. Permite modificar ou estendero comportamento de classes e funções de forma limpa.
 
 ##  DDD
 
+>   Abordagem de desenvolvimento de software que busca modelar o software para corresponder a um domínio de negócio. Seu objetivo é alinhar o software com as necessidades do negócio, utilizando uma linguagem comum e partilhada por todos.
