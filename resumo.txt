@@ -1,0 +1,20 @@
+#   Principais funcionalidades que foram ministradas/aplicadas:
+
+##  @static method
+
+>   Tipo de método, estático, que recebe um self, porém não tem acesso à instância nem à classe. Ajuda a criar funções utilitárias que têm relação lógica com a classe, mas não dependem do estado de nenhuma instância particular.
+
+##  Dataclasses
+
+>   Decorador que cria automaticamente os métodos básicos de uma classe, como o __init__.
+
+##  Eventos de Domínio
+
+>   Padrão do Domain-Driven Design que serve para capturar ocorrências de negócio significativas como objetos de primeira classe. Um evento representa um fato que aconteceu no passado e é imutável.
+
+##  Decoradores
+
+>   
+
+##  DDD
+
